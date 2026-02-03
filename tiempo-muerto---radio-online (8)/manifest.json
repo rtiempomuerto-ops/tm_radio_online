@@ -1,0 +1,22 @@
+
+{
+  "name": "Tiempo Muerto Radio",
+  "short_name": "Tiempo Muerto",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#b91c1c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=TM",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=TM",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

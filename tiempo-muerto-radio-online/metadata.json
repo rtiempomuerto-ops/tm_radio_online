@@ -1,0 +1,8 @@
+{
+  "name": "Tiempo Muerto - Radio ONLINE",
+  "description": "Plataforma de radio interactiva con chat multimedia y noticias comunitarias de Concepción del Uruguay.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
